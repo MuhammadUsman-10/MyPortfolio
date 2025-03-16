@@ -118,7 +118,7 @@ function App() {
 
       <footer className="mt-20 py-8 bg-white/50 dark:bg-gray-800/50 backdrop-blur-sm">
         <div className="container mx-auto px-4 flex justify-between items-center">
-          <p className="text-gray-600 dark:text-gray-400">© {new Date().getFullYear()} Muhammad Usman</p>
+          <p className="text-gray-600 dark:text-gray-400">© {new Date().getFullYear()} Muhammad Usman. All rights reserved.</p>
           <div className="flex gap-4">
             <a href="https://github.com/MuhammadUsman-10" target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-400 hover:text-purple-600 dark:hover:text-purple-400" aria-label="GitHub Profile">
               <Github className="w-6 h-6" />
