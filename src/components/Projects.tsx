@@ -12,21 +12,21 @@ const Projects = () => {
       demo: "https://demo.com"
     },
     {
-      title: "AI-Powered Chat Application",
+      title: "Mental Health Assistant Chatbot",
       description: "Real-time chat application with AI-powered features like sentiment analysis and automatic language translation.",
-      image: "https://images.unsplash.com/photo-1587560699334-cc4ff634909a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
-      tags: ["Python", "FastAPI", "React", "WebSocket", "NLP"],
-      github: "https://github.com",
-      demo: "https://demo.com"
+      image: "/chatbot.png",
+      tags: ["Python", "FastAPI", "LangChain", "OpenAI", "React", "Tailwind CSS", "MongoDB", "Docker"],
+      github: "https://github.com/MuhammadUsman-10/Chatbot-Project",
+      demo: "https://mental-health-chatbot-project.vercel.app/"
     },
     {
-      title: "Cloud-Based Task Manager",
-      description: "Collaborative task management system with real-time updates, file sharing, and automated workflow features.",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2015&q=80",
-      tags: ["React", "Node.js", "MongoDB", "AWS", "Socket.io"],
-      github: "https://github.com",
-      demo: "https://demo.com"
-    }
+      title: "Dribbble Clone",
+      description: "A pixel-perfect clone of Dribbble, featuring user authentication, real-time updates, and image sharing.",
+      image: "/dribble.png",
+      tags: ["React", "Tailwind CSS", "PrimeReact UI", "DummyAPI"],
+      github: "https://github.com/MuhammadUsman-10/dribble-Clone",
+      demo: "https://dribble-clone-six-beta.vercel.app"
+    },
   ];
 
   return (
