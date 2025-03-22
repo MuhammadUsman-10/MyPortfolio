@@ -6,7 +6,7 @@ const Skills = () => {
     {
       icon: <Terminal className="w-8 h-8" />,
       title: "Full Stack Development",
-      description: "MERN Stack, TypeScript, Python, FastAPI",
+      description: "MERN Stack, JS/TS, RESTFUL APIs, Python, FastAPI",
       color: "from-blue-500 to-cyan-500"
     },
     {
@@ -18,13 +18,13 @@ const Skills = () => {
     {
       icon: <Cloud className="w-8 h-8" />,
       title: "Cloud Computing",
-      description: "Cloud Architecture, Deployment, Scaling",
+      description: "Cloud Architecture, Deployment, AWS, GCP",
       color: "from-purple-500 to-pink-500"
     },
     {
       icon: <Brain className="w-8 h-8" />,
-      title: "AI & Machine Learning",
-      description: "AI Integration, ML Models, Data Analysis",
+      title: "AI, LLMs, GPTS & Agents",
+      description: "AI/LLMs Integration, Chatbots, Agents",
       color: "from-orange-500 to-red-500"
     }
   ];

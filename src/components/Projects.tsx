@@ -4,12 +4,36 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution built with MERN stack, featuring real-time inventory, payment integration, and admin dashboard.",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2089&q=80",
-      tags: ["React", "Node.js", "MongoDB", "Express", "Redux"],
-      github: "https://github.com",
-      demo: "https://demo.com"
+      title: "My Portfolio",
+      description: "A personal portfolio website with an elegant design built with React, TypeScript, Tailwind CSS, and Framer Motion.",
+      image: "/my-portfolio.png",
+      tags: ["React", "Next.js", "Tailwind CSS", "Framer Motion"],
+      github: "https://github.com/MuhammadUsman-10/MyPortfolio",
+      demo: "https://muhammadusman-10.vercel.app/"
+    },
+    {
+      title: "Link Building Website",
+      description: "A static link building website built with HTML, CSS (Bootstrap) and JavaScript, featuring services of a Link Builder Agency.",
+      image: "/link-building-website.png",
+      tags: ["React", "Node.js", "MongoDB", "Express", "Socket.IO", "Tailwind CSS"],
+      github: "https://github.com/MuhammadUsman-10/Link-Building-Website",
+      demo: "https://muhammadusman-10.github.io/Link-Building-Website/"
+    },
+    {
+      title: "Backend Boilerplate for E-commerce",
+      description: "An E-commerce backend boilerplate built with Node.js, Express, MongoDB for e-commerce applications.",
+      image: "/e-commerce.png",
+      tags: ["Node.js", "Express", "MongoDB", "JWT", "Mongoose", "Bcrypt"],
+      github: "https://github.com/MuhammadUsman-10/21PWBCS0848-WP-Fall2023-Assignment-03",
+      demo: "https://github.com/MuhammadUsman-10/21PWBCS0848-WP-Fall2023-Assignment-03"
+    },
+    {
+      title: "Afghan Wheels",
+      description: "A full-stack e-commerce solution built with MERN stack, featuring real-time booking and purchasing of cars, and admin dashboard.",
+      image: "/afghan-wheels.png",
+      tags: ["React", "Node.js", "MongoDB", "Express", "Cloudinary", "Bootstrap"],
+      github: "https://github.com/MuhammadUsman-10/Afghan-Wheels",
+      demo: "https://github.com/MuhammadUsman-10/Afghan-Wheels"
     },
     {
       title: "Mental Health Assistant Chatbot",
