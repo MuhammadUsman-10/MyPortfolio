@@ -35,7 +35,7 @@ const Hero = () => {
               Get in Touch
             </a>
             <a
-              href="/Muhammad_Usman_FullStack_Resume.pdf"
+              href="/MuhammadUsman-FullStack Developer.pdf"
               download
               className="flex items-center gap-2 px-6 py-3 border border-purple-600 text-purple-600 dark:text-purple-400 rounded-lg hover:bg-purple-50 dark:hover:bg-purple-900/20 transition-colors"
             >
