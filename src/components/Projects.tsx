@@ -15,7 +15,7 @@ const Projects = () => {
       title: "Link Building Website",
       description: "A static link building website built with HTML, CSS (Bootstrap) and JavaScript, featuring services of a Link Builder Agency.",
       image: "/link-building-website.png",
-      tags: ["React", "Node.js", "MongoDB", "Express", "Socket.IO", "Tailwind CSS"],
+      tags: ["HTML", "CSS/Bootstrap", "JavaScript"],
       github: "https://github.com/MuhammadUsman-10/Link-Building-Website",
       demo: "https://muhammadusman-10.github.io/Link-Building-Website/"
     },
